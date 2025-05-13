@@ -49,6 +49,14 @@
         }
       },
       "versions": [
+        {
+          "version": "2.3.4",
+          "date": "2025-05-13",
+          "localizedDescription": "Rigel Subscription Tracker v2.3.4\n\nAutomated release from GitHub Actions workflow.\n\nChanges\n\u2022 Version bump: 2.3.3 \u2192 2.3.4\n\u2022 Build created on: $(date +'%Y\u2022%m\u2022%d %H:%M:%S')\n",
+          "downloadURL": "https://github.com/santhosh-D-subramani/rigel/releases/download/v2.3.4/Rigel_2.3.4%2B1.ipa",
+          "size": 24672068,
+          "minOSVersion": "14.0"
+        }
       ]
     }
   ],
