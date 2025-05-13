@@ -2,9 +2,9 @@
   "name": "Rigel Source",
   "identifier": "com.santhoshDsubramani.rigel",
   "sourceURL": "https://raw.githubusercontent.com/santhosh-D-subramani/rigel/refs/heads/altstore/apps.json",
-  "subtitle": "Home of Aidoku, free and open source manga reader for iOS and iPadOS",
-  "description": "This is the AltStore Source for Aidoku, free and open source manga reader for iOS and iPadOS.\n\nFor full details on what's included, check the website: https://aidoku.app/",
-  "website": "https://aidoku.app/",
+  "subtitle": "Rigel, Free Subscription Tracker for Android / iOS",
+  "description": "This is the AltStore Source for Rigel,  Free Subscription Tracker for Android / iOS.\n\nFor full details on what's included, check the website: https://aidoku.app/",
+  "website": "https://rigel.app/",
   "featuredApps": [
     "com.santhoshDsubramani.rigel"
   ],
@@ -13,8 +13,8 @@
       "name": "Rigel",
       "bundleIdentifier": "com.santhoshDsubramani.rigel",
       "developerName": "Santhosh D Subramani",
-      "subtitle": "Free and open source manga reader for iOS and iPadOS",
-      "localizedDescription": "A free and open source manga reading application for iOS and iPadOS.",
+      "subtitle": "Rigel, Free Subscription Tracker for Android / iOS",
+      "localizedDescription": "Rigel, Free Subscription Tracker for Android / iOS",
       "iconURL": "https://aidoku.app/images/apple-touch-icon.png",
       "tintColor": "ff375f",
       "category": "entertainment",
@@ -43,10 +43,7 @@
           "com.apple.developer.icloud-services",
           "com.apple.developer.ubiquity-kvstore-identifier"
         ],
-        "privacy": {
-          "NSFaceIDUsageDescription": "Aidoku needs FaceID permissions for user-defined settings",
-          "NSPhotoLibraryUsageDescription": "Aidoku needs permission to save pages in your photo library"
-        }
+        "privacy": {}
       },
       "versions": [
         {
